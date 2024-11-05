@@ -20,5 +20,6 @@ public class ejercicio2 {
         }
 
         entrada.close();
+        
     }
 }
