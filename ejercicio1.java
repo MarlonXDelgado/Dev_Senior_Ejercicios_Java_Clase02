@@ -25,6 +25,8 @@ public class ejercicio1 {
 
         System.out.println("El resultado de la operación es: " + resultado);
 
+        entrada.close();
+
         
     }
 

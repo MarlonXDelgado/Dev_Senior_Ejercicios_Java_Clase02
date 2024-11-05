@@ -17,5 +17,8 @@ public class ejercicio3 {
         totalPeces = pecesRojos + pecesAzules;
 
         System.out.println("La cantidad total de peces en el acuario es de: " + totalPeces);
+        
+       entrada.close();
+    
     }
 }

@@ -18,5 +18,7 @@ public class ejercicio2 {
         } else {
             System.out.println("El precio total es de: " + preciofinal + " euros");
         }
+
+        entrada.close();
     }
 }
